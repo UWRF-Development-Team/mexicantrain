@@ -10,7 +10,7 @@ public class Main {
         Lwjgl3ApplicationConfiguration config = new Lwjgl3ApplicationConfiguration();
 		new Lwjgl3Application(new MexicanTrain(), config);
 
-        System.out.println("hi world hello world hii!!!!!");
+        System.out.println("hi world hello world hii!!!!!");    
     }
 
 }
